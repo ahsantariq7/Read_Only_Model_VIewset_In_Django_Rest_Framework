@@ -1,0 +1,2 @@
+# Read_Only_Model_VIewset_In_Django_Rest_Framework
+ 
